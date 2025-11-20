@@ -1,0 +1,19 @@
+{
+    "cameras": [
+        {
+            "distortionCoefficients": [
+                -0.036787647748734414,
+                0.004048026529406263,
+                -0.007773661433555711,
+                0.002068716240417432
+            ],
+            "focalLengthX": 590.0679459329615,
+            "focalLengthY": 589.5248066650331,
+            "imageHeight": 1080,
+            "imageWidth": 1920,
+            "model": "kannala-brandt4",
+            "principalPointX": 1015.0660943015982,
+            "principalPointY": 571.3563384482426
+        }
+    ]
+}
